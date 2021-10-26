@@ -121,8 +121,6 @@ function Button({ children, color, className, ...props }) {
 
 export { Badge, Typography, Button };
 
-// ########################################################################
-
 function getColor(color, theme, brigtness = "main") {
   if (color && theme.palette[color] && theme.palette[color][brigtness]) {
     return theme.palette[color][brigtness];

@@ -47,7 +47,7 @@ export default makeStyles(theme => ({
     backgroundColor: fade(theme.palette.common.black, 0.08),
     width: "100%",
     [theme.breakpoints.up("md")]: {
-      width: 250,
+      width: 350,
     },
   },
   searchIcon: {
