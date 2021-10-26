@@ -1,4 +1,4 @@
-# Donation GIFs Webapp
+Donation GIFs Webapp
 
 ## How to run:
 
